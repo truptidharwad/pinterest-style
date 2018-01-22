@@ -1,10 +1,10 @@
-# FCC Basejump
+
 ---
 
 ### *Dynamic Web Application Projects*
 ---
 
-### Basejump: Build a Pinterest Clone
+Pinterest Clone
 
 #### USER STORIES:
 
